@@ -3,5 +3,7 @@
 
 源码的jdk是1.8版本
 
-windows下载地址：
+windows下载地址：https://github.com/bdqntp/google-flush-ip/releases/download/untagged-d2f300b253bd4267bfcf/google-flush-ip-setup.exe
+
+
 下载好安装好之后，使用管理员身份打开exe文件
